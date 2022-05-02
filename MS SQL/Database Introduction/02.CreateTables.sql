@@ -1,0 +1,12 @@
+CREATE TABLE Minions.dbo.Minions
+(
+	Id INT PRIMARY KEY,
+	Name NVARCHAR(30),
+	Age SMALLINT
+)
+
+CREATE TABLE Minions.dbo.Towns
+(
+	Id INT PRIMARY KEY,
+	Name NVARCHAR(30)
+)
