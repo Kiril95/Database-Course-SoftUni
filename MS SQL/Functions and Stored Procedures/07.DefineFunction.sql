@@ -2,7 +2,7 @@ CREATE FUNCTION ufn_IsWordComprised(@setOfLetters NVARCHAR(30), @word NVARCHAR(3
 RETURNS BIT AS
 BEGIN
     DECLARE @result BIT
-	DECLARE @counter INT = 1
+    DECLARE @counter INT = 1
 
     WHILE(@counter <= LEN(@word))
 		BEGIN

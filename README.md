@@ -1,2 +1,2 @@
 # Database-Course-SoftUni
-The repo has problem solutions for exercises including: MS SQL and Entity Framework Core.
+The repo has problem solutions for exercises including: MSSQL and Entity Framework Core.
