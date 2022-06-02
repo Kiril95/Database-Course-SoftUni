@@ -1,7 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 
 namespace CodeFirstApproach.Models
 {
+    [Index(nameof(Name), IsUnique = true)]
+    [Index(nameof(ClubStadium), IsUnique = true)]
     public class Team
     {
         public Team()
