@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<cars>
+  <car make="Chevy" model="Corvette" travelled-distance="520332790">
+    <parts>
+      <part name="Catalytic converter" price="540.99" />
+      <part name="Sunroof Glass" price="205.24" />
+      <part name="Fuel cooler" price="140.99" />
+      <part name="Window motor" price="123.49" />
+      <part name="Clutch assembly" price="120.99" />
+      <part name="Water tank" price="100.99" />
+      <part name="Gudgeon pin" price="44.99" />
+      <part name="Front Right Side Window motor" price="44.99" />
+      <part name="Engine cradle" price="39.99" />
+      <part name="Crank pulley" price="2.80" />
+    </parts>
+  </car>
+  <car make="Skoda" model="Fabia" travelled-distance="520029040">
+    <parts>
+      <part name="Spoiler" price="3000.99" />
+      <part name="Overflow tank" price="1200.99" />
+      <part name="Welded assembly" price="1020.99" />
+      <part name="Oil gasket" price="130.99" />
+      <part name="Cooling fan" price="120.99" />
+      <part name="Differential seal" price="109.99" />
+      <part name="Quarter panel" price="100.99" />
+      <part name="Engine valve" price="49.99" />
+      <part name="Front Right Side Window motor" price="44.99" />
+      <part name="Rear Right Side Window motor" price="22.99" />
+    </parts>
+  </car>
+  <car make="Alfa Romeo" model="Giulietta" travelled-distance="519844092">
+    <parts>
+      <part name="Exhaust clamp and bracket" price="140.99" />
+      <part name="Rocker arm" price="98.99" />
+      <part name="Hinge" price="11.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Astra" travelled-distance="516628215">
+    <parts>
+      <part name="Welded assembly" price="1020.99" />
+      <part name="Fuel filter" price="162.99" />
+      <part name="Front Right Side Window motor" price="44.99" />
+    </parts>
+  </car>
+  <car make="Great Wall" model="Haval H6" travelled-distance="515863753">
+    <parts>
+      <part name="Spoiler" price="3000.99" />
+      <part name="Front Right Side Door Glass" price="100.91" />
+    </parts>
+  </car>
+</cars>
