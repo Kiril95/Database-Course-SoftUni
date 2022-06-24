@@ -29,7 +29,7 @@
         public static string ImportCountries(ArtilleryContext context, string xmlString)
         {
             StringBuilder sb = new StringBuilder();
-            List<Data.Models.Country> countries = new List<Data.Models.Country>();
+            List<Country> countries = new List<Country>();
 
             XmlSerializer serializer = new XmlSerializer(typeof(CountryImportDTO[]), new XmlRootAttribute("Countries"));
             using StringReader reader = new StringReader(xmlString);
