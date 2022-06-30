@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 3,
+    "Name": "Aguistin Rawls",
+    "CellNumber": 303,
+    "Officers": [],
+    "TotalOfficerSalary": 0.00
+  },
+  {
+    "Id": 5,
+    "Name": "Boycie Castellaccio",
+    "CellNumber": 202,
+    "Officers": [],
+    "TotalOfficerSalary": 0.00
+  },
+  {
+    "Id": 7,
+    "Name": "Maury Pelcheur",
+    "CellNumber": 104,
+    "Officers": [],
+    "TotalOfficerSalary": 0.00
+  },
+  {
+    "Id": 1,
+    "Name": "Melanie Simonich",
+    "CellNumber": 105,
+    "Officers": [],
+    "TotalOfficerSalary": 0.00
+  }
+]
